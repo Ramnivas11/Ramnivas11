@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Android+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Web+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
