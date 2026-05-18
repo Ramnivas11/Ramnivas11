@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramnivas Suthar</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • Android Developer • Tech Enthusiast
+💻 Full Stack Developer  • Tech Enthusiast
 </h3>
 
 <p align="center">
