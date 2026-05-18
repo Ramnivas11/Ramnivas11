@@ -68,12 +68,11 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ramnivas11/Ramnivas11/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramnivas11&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 # 🌟 Featured Work
