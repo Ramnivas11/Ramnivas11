@@ -84,15 +84,9 @@
 - REST API Integrations
 - Admin Dashboards
 
-### 📱 Android Projects
-- Android Studio Applications
-- SQLite-based Apps
-- UI-focused Mobile Experiences
-
 ### ☁️ Deployment Experience
 - Vercel
 - Netlify
-- Heroku
 
 ---
 
